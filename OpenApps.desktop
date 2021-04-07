@@ -1,0 +1,4 @@
+[Desktop Entry]
+Exec=sh /home/dot009/dsquare/autoOpenApps/script.sh
+Name=OpenApps
+Type=Application
